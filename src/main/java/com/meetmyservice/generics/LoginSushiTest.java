@@ -11,5 +11,6 @@ System.out.println("hi this is omkar");
 System.out.println("check new omkar");
 System.out.println("my new test");
 System.out.println("check this dummy data");
+System.out.println("Today is saturday");
 }
 }
